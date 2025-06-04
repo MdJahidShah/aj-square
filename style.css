@@ -1,0 +1,26 @@
+/*
+Theme Name: AJ Square
+Theme URI: https://jahidshah.com/ajsquare/
+Author: Jahid Shah
+Author URI: https://jahidshah.com/
+Description: AJ Square is a lightweight, fast, and fully customizable WordPress theme perfect for blogs, personal portfolios, and modern websites. It’s built with responsiveness and clean design in mind and works seamlessly with Gutenberg and popular page builders like Elementor. AJ Square is beginner-friendly and optimized for performance and SEO, making it ideal for both new users and experienced developers.
+Version: 1.0.1
+Requires at least: 5.0
+Tested up to: 6.8
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: aj-square
+Domain Path: /languages
+Tags: blog, portfolio, custom-colors, custom-menu, custom-logo, featured-images, full-width-template, one-column, two-columns, right-sidebar, left-sidebar, threaded-comments, translation-ready, rtl-language-support, theme-options, editor-style
+AMP: true
+*/
+
+
+/* Global styles */
+/* Reset default spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
