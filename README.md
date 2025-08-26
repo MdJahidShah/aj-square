@@ -39,7 +39,7 @@ Whether you're building a personal blog, showcasing your portfolio, or launching
 3. Click **Install** and then **Activate**
 
 ### Manual Installation via FTP:
-1. [Download AJ Square v1.0.0 (ZIP)](https://github.com/MdJahidShah/aj-square/releases/download/v1.0.0/aj-square.zip) the ZIP file.
+1. [Download AJ Square Latest (ZIP)](https://github.com/MdJahidShah/aj-square/releases/latest/download/aj-square.zip)
 2. Unzip the file locally.
 3. Upload it to the `/wp-content/themes/` directory on your server.
 4. Activate the theme from your WordPress dashboard.
@@ -136,5 +136,6 @@ Distributed under the **GNU General Public License v2 or later**.
 Based on **Underscores** by Automattic, also licensed under GPLv2 or later.
 
 ---
+
 
 Made with ❤️ by [Jahid Shah](https://github.com/mdjahidshah) | [Donate](https://www.buymeacoffee.com/jahidshah)
