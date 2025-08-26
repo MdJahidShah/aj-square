@@ -34,9 +34,10 @@ Whether you're building a personal blog, showcasing your portfolio, or launching
 ## 🚀 Installation
 
 ### From WordPress Dashboard:
-1. Navigate to **Appearance > Themes > Add New**
-2. Search for "**AJ Square**"
-3. Click **Install** and then **Activate**
+1. First, [Download AJ Square Latest (ZIP)](https://github.com/MdJahidShah/aj-square/releases/latest/download/aj-square.zip)
+2. Navigate to **Appearance > Themes > Add Theme**
+3. Click on Upload **Theme> Choose File**, select the theme from download folder that you downloaded.
+4. Now Click **Install** and then **Activate**
 
 ### Manual Installation via FTP:
 1. [Download AJ Square Latest (ZIP)](https://github.com/MdJahidShah/aj-square/releases/latest/download/aj-square.zip)
@@ -139,3 +140,4 @@ Based on **Underscores** by Automattic, also licensed under GPLv2 or later.
 
 
 Made with ❤️ by [Jahid Shah](https://github.com/mdjahidshah) | [Donate](https://www.buymeacoffee.com/jahidshah)
+
